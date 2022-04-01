@@ -21,8 +21,8 @@ To write a program to implement the multivariate linear regression model for sal
 ```
 /*
 Program to implement the multivariate linear regression model for sales prediction.
-Developed by: vivek reddy
-RegisterNumber:212221240030  
+Developed by: amarnath reddy
+RegisterNumber:212221240012
 */
 import pandas as pd
 import matplotlib.pyplot as plt
